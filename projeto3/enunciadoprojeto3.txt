@@ -46,14 +46,3 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
- 
-
- 
-Bons estudos 😉
-XP 2680/3553
-NÍVEL 7
-4/5
-CONTEÚDOS
-INFORMAÇÕES
-Desafio Lançado!
-Entendendo o Desafio
